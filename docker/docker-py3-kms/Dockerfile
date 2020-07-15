@@ -29,7 +29,7 @@ ENV LCID		1033
 
 # EN: the current client count
 # RU: текущий счётчик запросов на активацию продуктов от Microsoft
-ENV CLIENT_COUNT	26
+#ENV CLIENT_COUNT	26
 # Use this flag to specify the current client count. Default is 26.
 # A number >=25 is required to enable activation of client OSes; for server OSes and Office >=5.
 
